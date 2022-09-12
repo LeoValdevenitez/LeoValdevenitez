@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href=" target="blank"><img align="center" src="" alt="parisa-khaleghi" height="30" width="40" /></a>
+
 
 </p>
 
