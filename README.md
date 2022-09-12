@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Leonardo Valdevenitez</h1>
-<h3 align="center">A passionate developer full stack from </h3>
+<h3 align="center">A developer Full Stack</h3>
 
 <p align="left"> <img src="" alt="i" /> </p>
 
