@@ -2,11 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Leonardo Valdevenitez</h1>
-<h3 align="center">A developer Full Stack</h3>
+<h3 align="center">Developer Full Stack</h3>
 
-<p align="left"> <img src="" alt="i" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="e" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **MongoDB, DevOps, R**
 
