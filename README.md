@@ -21,7 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![Mysql](https://img.shields.io/badge/MysqlL-black?logo=mysql)
 
-### Proyectos 
+### Proyectos Recientes 2021 - 2022
 <table>
   <tr>
     <td><img src="https://grupoweb.com.ar/profile/efood.png" width=240></td>
@@ -32,7 +32,7 @@
     <td><img src="https://grupoweb.com.ar/profile/cm.png" width=240></td>
     <td><img src="https://grupoweb.com.ar/profile/rec.png" width=240></a></td>
     <td><img src="https://grupoweb.com.ar/profile/aero.png" width=240 ></td>
-  </tr>>
+  </tr>
  </table>
 
 
