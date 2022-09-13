@@ -29,10 +29,10 @@
     <td><img src="https://grupoweb.com.ar/profile/dep.png" width=240 ></td>
   </tr>
   <tr>
-    <td><img src="https://screenshot-proxy.netlify.app/f_avif,w_336/https://d33wubrfki0l68.cloudfront.net/62bc498bd3f6e20009cc3889/screenshot_2022-06-29-12-47-04-0000.png" width=240></td>
-    <td>><img src="https://github.com/Rajesh-Royal/developer-portfolio-blog-ecommerce/raw/develop/src/images/final%20screenshot%20readme%20preview.jpg" width=240></td>
-    <td><img src="https://github.com/Rajesh-Royal/car-bidding-system-react/raw/develop/src/assets/images/CarBiddingProjectImage.png" width=240 ></td>
-  </tr>
+    <td><img src="https://grupoweb.com.ar/profile/cm.png" width=240></td>
+    <td><img src="https://grupoweb.com.ar/profile/rec.png" width=240></a></td>
+    <td><img src="https://grupoweb.com.ar/profile/aero.png" width=240 ></td>
+  </tr>>
  </table>
 
 
