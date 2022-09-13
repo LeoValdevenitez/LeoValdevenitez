@@ -2,6 +2,9 @@
    <img align="center" width="200" src="https://grupoweb.com.ar/profile/profile.png" />
    <h3 align="center">¡Hey 👋! Soy Leonardo Valdevenitez 👨🏻‍💻</h3>
 </p>
+
+
+
 🌱 **FRONT-END** <br />
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ![Next.JS](https://img.shields.io/badge/Next.JS-black?logo=Next.JS)
@@ -11,6 +14,7 @@
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-black?logo=styled-components)
 ![TailwindCss](https://img.shields.io/badge/Tailwind-black?logo=Tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap)
+
 
 🌱 **BACK-END** <br />
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
