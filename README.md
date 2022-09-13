@@ -12,7 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/ES6,%20HTML5,%20CSS3-black?logo=javascript)
 ![SCSS](https://img.shields.io/badge/SCSS-black?logo=sass)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-black?logo=styled-components)
-![TailwindCss](https://img.shields.io/badge/Tailwind-black?logo=Tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap)
 
 
