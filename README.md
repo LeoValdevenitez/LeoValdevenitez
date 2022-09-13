@@ -17,8 +17,6 @@
 
 🌱 **BACK-END** <br />
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![Express](https://img.shields.io/badge/Nest.js-black?logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
 ![Mysql](https://img.shields.io/badge/MysqlL-black?logo=mysql)
 
