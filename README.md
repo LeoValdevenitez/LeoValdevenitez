@@ -20,7 +20,7 @@
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![Express](https://img.shields.io/badge/Nest.js-black?logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
-![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql)
+![Mysql](https://img.shields.io/badge/MysqlL-black?logo=mysql)
 
 
 
