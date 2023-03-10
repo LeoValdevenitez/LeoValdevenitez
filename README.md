@@ -1,41 +1,29 @@
-# El emocionante mundo del desarrollo web y móvil
+## Habilidades destacadas
 
-¡Hola a todos! Hoy vamos a hablar sobre el emocionante mundo del desarrollo web y móvil. Como desarrollador, he tenido la oportunidad de trabajar en proyectos tanto web como móviles utilizando una amplia gama de tecnologías y herramientas. En este texto, compartiré mis experiencias y conocimientos sobre este fascinante campo.
+### React
 
-## El desarrollo web
+- Creé una pequeña aplicación web para gestionar tareas utilizando React y Redux. El código está disponible en mi repositorio de [GitHub](https://github.com/tu-usuario).
+- Colaboré en un proyecto de e-commerce desarrollado en React, donde trabajé en la implementación de algunas funcionalidades y en la creación de componentes. El proyecto está disponible en el repositorio de la empresa.
+- Habilidad en el uso de React para desarrollar interfaces de usuario interactivas y escalables.
 
-El desarrollo web se refiere a la creación de sitios web y aplicaciones web que se pueden acceder a través de Internet. Algunas de las tecnologías más utilizadas en el desarrollo web incluyen:
+### React Native
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Vue.js
-- Angular
-- Node.js
+- Desarrollé una aplicación móvil para Android e iOS utilizando React Native y Expo. La aplicación permite a los usuarios crear y compartir notas. El código está disponible en mi repositorio de [GitHub](https://github.com/tu-usuario).
+- Participé en un proyecto de una aplicación de entrega de comida desarrollada en React Native, donde colaboré en la creación de algunas pantallas y en la implementación de la integración con el backend. El proyecto está disponible en el repositorio de la empresa.
+- Habilidad en el uso de React Native para desarrollar aplicaciones móviles nativas para Android e iOS.
 
-Estas tecnologías permiten a los desarrolladores crear sitios web interactivos y atractivos para los usuarios. Además, existen muchos frameworks y bibliotecas populares en el mundo del desarrollo web.
+### Jest
 
-## El desarrollo móvil
+- Implementé pruebas unitarias utilizando Jest en un proyecto de una aplicación web desarrollada en React. El código está disponible en mi repositorio de [GitHub](https://github.com/tu-usuario).
+- Participé en un proyecto de una aplicación móvil desarrollada en React Native, donde colaboré en la implementación de pruebas automatizadas utilizando Jest y React Testing Library. El proyecto está disponible en el repositorio de la empresa.
+- Habilidad en el uso de Jest para implementar pruebas unitarias y de integración en proyectos de desarrollo web y móvil.
 
-El desarrollo móvil se refiere a la creación de aplicaciones móviles para dispositivos móviles como smartphones y tablets. Las aplicaciones móviles pueden ser nativas o híbridas. Las aplicaciones móviles nativas están diseñadas específicamente para una plataforma en particular, como iOS o Android, mientras que las aplicaciones móviles híbridas se pueden desarrollar utilizando tecnologías web y luego empaquetarse como una aplicación nativa. Algunas de las tecnologías más utilizadas en el desarrollo móvil incluyen:
+### GitHub
 
-- React Native
-- Kotlin
-- Swift
-- Xamarin
-- Flutter
+- Contribuí en un proyecto open source desarrollado en React, donde solucioné algunos bugs y agregué nuevas funcionalidades. El proyecto está disponible en el repositorio de la comunidad.
+- Tengo varios proyectos en mi repositorio de [GitHub](https://github.com/tu-usuario) que han sido destacados y compartidos por otros desarrolladores.
+- Habilidad en el uso de Git y GitHub para colaborar en proyectos de desarrollo web y móvil en equipo y contribuir en proyectos open source.
 
-En mi experiencia, he trabajado en proyectos tanto web como móviles utilizando diferentes tecnologías. Por ejemplo, he trabajado en proyectos web utilizando React y Node.js, y en proyectos móviles utilizando React Native. La elección de la tecnología depende del proyecto y de los requisitos específicos del cliente.
+## Acerca de mí
 
-## La importancia del usuario
-
-Otro aspecto importante del desarrollo web y móvil es la experiencia del usuario. Los usuarios esperan que las aplicaciones y sitios web sean rápidos, intuitivos y fáciles de usar. Es responsabilidad del desarrollador crear una experiencia de usuario excelente y garantizar que los sitios web y aplicaciones sean accesibles para todos los usuarios.
-
-## Trabajo en equipo
-
-Por último, me gustaría destacar la importancia del trabajo en equipo en el desarrollo web y móvil. Es fundamental colaborar con otros desarrolladores, diseñadores y miembros del equipo para garantizar que se cumplan los objetivos del proyecto. Además, la retroalimentación y el intercambio de conocimientos pueden ayudar a mejorar el resultado final del proyecto.
-
-En resumen, el desarrollo web y móvil es un campo emocionante y en constante evolución que ofrece muchas oportunidades para los desarrolladores. Desde la creación de sitios web hasta aplicaciones móviles, el desarrollo web y móvil se ha convertido en una parte integral de nuestras vidas diarias.
-
-
+Soy un desarrollador web y móvil con experiencia en el uso de React, React Native, Jest y Git/GitHub. Me apasiona el desarrollo de aplicaciones y la creación de interfaces de usuario intuitivas y escalables. Si estás interesado en colaborar en algún proyecto o tienes alguna pregunta, no dudes en contactarme. 
