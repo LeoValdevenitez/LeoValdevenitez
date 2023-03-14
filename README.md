@@ -2,7 +2,7 @@
 
 ### React
 
-- Creé una pequeña aplicación web para gestionar tareas utilizando React y Redux. El código está disponible en mi repositorio de [GitHub](https://github.com/tu-usuario).
+- Creé una pequeña aplicación web para gestionar tareas utilizando React y Redux a modo de que vean mi metodologia de desarrollo. El código está disponible en mi repositorio de [GitHub](https://github.com/tu-usuario).
 - Colaboré en un proyecto de e-commerce desarrollado en React, donde trabajé en la implementación de algunas funcionalidades y en la creación de componentes. El proyecto está disponible en el repositorio de la empresa.
 - Habilidad en el uso de React para desarrollar interfaces de usuario interactivas y escalables.
 
