@@ -1,4 +1,7 @@
-## Habilidades destacadas
+
+## Acerca de mí
+
+Soy un desarrollador web y móvil con experiencia en el uso de React, React Native, Jest y Git/GitHub. Me apasiona el desarrollo de aplicaciones y la creación de interfaces de usuario intuitivas y escalables. Si estás interesado en colaborar en algún proyecto o tienes alguna pregunta, no dudes en contactarme. ## Habilidades destacadas
 
 ### React
 
@@ -24,6 +27,4 @@
 - Tengo varios proyectos en mi repositorio de [GitHub](https://github.com/tu-usuario) que han sido destacados y compartidos por otros desarrolladores.
 - Habilidad en el uso de Git y GitHub para colaborar en proyectos de desarrollo web y móvil en equipo y contribuir en proyectos open source.
 
-## Acerca de mí
 
-Soy un desarrollador web y móvil con experiencia en el uso de React, React Native, Jest y Git/GitHub. Me apasiona el desarrollo de aplicaciones y la creación de interfaces de usuario intuitivas y escalables. Si estás interesado en colaborar en algún proyecto o tienes alguna pregunta, no dudes en contactarme. 
